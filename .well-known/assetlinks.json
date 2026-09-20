@@ -1,0 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.paolafatigato.agendaprof",
+        "sha256_cert_fingerprints": ["88:41:57:30:2F:D0:2E:35:FD:C5:FD:A7:CA:33:51:EA:67:35:69:CF:87:7F:DA:3E:74:CF:CA:BD:B8:0D:AD:8F"]
+      }
+    }]
+
