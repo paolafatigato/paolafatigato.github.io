@@ -3,7 +3,7 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.paolafatigato.agendaprof",
-        "sha256_cert_fingerprints": ["88:41:57:30:2F:D0:2E:35:FD:C5:FD:A7:CA:33:51:EA:67:35:69:CF:87:7F:DA:3E:74:CF:CA:BD:B8:0D:AD:8F"]
+        "sha256_cert_fingerprints": ["88:41:57:30:2F:D0:2E:35:FD:C5:FD:A7:CA:33:51:EA:67:35:69:CF:87:7F:DA:3E:74:CF:CA:BD:B8:0D:AD:8F", "B9:87:6E:EB:3B:AB:37:61:AC:63:F2:4E:3E:EC:49:8B:45:D3:6F:F7:05:2E:BC:72:6F:54:D8:23:E4:14:EC:2F"]
       }
     }]
 
